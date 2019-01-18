@@ -27,3 +27,7 @@
 ### DAY4
 ![](https://github.com/hawthornnn/2019WinterDailyModelingChallenge/blob/master/day4/untitled.23.png)
 - candlestick
+
+### DAY5
+![](https://github.com/hawthornnn/2019WinterDailyModelingChallenge/blob/master/day5/untitled.28.png)
+- iphone X
