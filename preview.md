@@ -1,5 +1,5 @@
  ## 2019WinterDailyModelingChallenge
-> just a challenge to motivate myself to practise modeling everday 
+> just a challenge to motivate myself to practise modeling everday (not precise modeling)
  
 - Modeling by rhino/c4d
 - Rendering by keyshot7
@@ -31,3 +31,7 @@
 ### DAY5
 ![](https://github.com/hawthornnn/2019WinterDailyModelingChallenge/blob/master/day5/untitled.28.png)
 - iphone X
+
+### DAY6
+![](https://github.com/hawthornnn/2019WinterDailyModelingChallenge/blob/master/day6/untitled.30.png)
+- apple mouse
