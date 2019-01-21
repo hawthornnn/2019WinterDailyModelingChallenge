@@ -35,3 +35,7 @@
 ### DAY6
 ![](https://github.com/hawthornnn/2019WinterDailyModelingChallenge/blob/master/day6/untitled.30.png)
 - apple mouse
+
+### DAY7&8
+![](https://github.com/hawthornnn/2019WinterDailyModelingChallenge/blob/master/day7-8/untitled.35.png)
+- gamepad
